@@ -11,7 +11,7 @@
 - Generate docx with `python-docx`
 
 ## Features
-
+- [x] Fix Tibetan Font show problem in https://github.com/tsitamani/pdf2docx/blob/main/pdf2docx/font/Fonts.py
 - [x] Parse and re-create page layout
     - [x] page margin
     - [x] section and column (1 or 2 columns only)
